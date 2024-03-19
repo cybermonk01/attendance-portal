@@ -6,7 +6,7 @@ _API, CRUD, Auth system, JWT, Redux, Calendar._
 
 ## [Try demo](https://attendance-client-five.vercel.app)
 
-<img src="./preview.jpeg">
+<img src="./preview.jpeg.png">
 
 
 ## Deployment 📦
